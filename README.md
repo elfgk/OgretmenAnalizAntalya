@@ -18,13 +18,13 @@ Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, öz
 
 *Python*
 
-*pandas*: Veri manipülasyonu ve analiz için kullanılmıştır.
+*pandas*
 
-*matplotlib*: Grafik oluşturmak için kullanılmıştır.
+*matplotlib*
 
-*gradio*: Kullanıcı dostu bir arayüz oluşturmak için kullanılmıştır.
+*gradio*
 
-*Excel*: Veri kaynaklarını içermek için kullanılmıştır.
+*Excel*
 
 ### Gereksinimler
 
