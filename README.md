@@ -14,7 +14,7 @@ Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, öz
 
 *`En yüksek hizmet puanı analizi`*: Hizmet puanına göre öğretmenlerin sıralamasını yapar.
 
-### Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 *`Python`*
 
