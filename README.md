@@ -37,13 +37,15 @@ pip install pandas matplotlib gradio openpyxl
 ### Kurulum
 
 *Projeyi klonlayın*:
-
+```bash
 git clone https://github.com/elfgk/OgretmenAnalizAntalya.git
 cd OgretmenAnalizAntalya
+```
 
 *Gerekli Python kütüphanelerini yükleyin*:
-
+```bash
 pip install -r requirements.txt
+```
 
 *Veri dosyalarını projenin ana dizinine yerleştirin*:
 
@@ -52,8 +54,9 @@ ihtiyac_data.xlsx
 norm_fazlasi.xlsx
 
 *Uygulamayı başlatın*:
-
+```bash
 python main.py
+```
 
 *Gradio Arayüzüne Erişim*:
 Komut satırında verilen URL'yi tarayıcınızda açarak arayüze erişin.
@@ -82,7 +85,5 @@ Hizmet puanlarına göre en yüksek puana sahip öğretmeni ve sıralamalarını
 
 Katkıda bulunmak için lütfen bir "Pull Request" oluşturun. Her türlü görüs ve geliştirme önerisi memnuniyetle karşılanır.
 
-Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır.
 
