@@ -26,7 +26,7 @@ Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, öz
 
 *Excel*
 
-### Gereksinimler
+## Gereksinimler
 
 Projeyi çalıştırmak için aşağıdaki paketlerin yüklenmiş olması gerekmektedir:
 
@@ -34,7 +34,7 @@ Projeyi çalıştırmak için aşağıdaki paketlerin yüklenmiş olması gerekm
 pip install pandas matplotlib gradio openpyxl
 ```
 
-### Kurulum
+## Kurulum
 
 *Projeyi klonlayın*:
 ```bash
@@ -61,24 +61,26 @@ python main.py
 *Gradio Arayüzüne Erişim*:
 Komut satırında verilen URL'yi tarayıcınızda açarak arayüze erişin.
 
-### Kullanım
+## Kullanım
 
 Ana Fonksiyonlar
 
 *Hizmet Bölgesi Bazlı Eksik Öğretmen Analizi*:
 
+##
+
 Seçilen branşa göre hizmet bölgelerinde öğretmen ihtiyaçlarını listeler ve bir grafik oluşturur.
 
 *Üretli Öğretmen Sayısı Analizi*:
-
+##
 Seçilen branş için toplam ihtiyaç, fazla sayısı ve üretli ihtiyacı gösterir.
 
 *Eğitim Seviyelerine Göre Kurum Analizi*:
-
+##
 Anaokulu, ilkokul, ortaokul ve lise bazında kurum sayılarını bir pasta grafiği üzerinde sunar.
 
 *Hizmet Puanı Analizi*:
-
+##
 Hizmet puanlarına göre en yüksek puana sahip öğretmeni ve sıralamalarını gösterir.
 
 ### Katkı
