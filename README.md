@@ -83,7 +83,7 @@ Hizmet puanlarına göre en yüksek puana sahip öğretmeni ve sıralamalarını
 
 ### Katkı
 
-Katkıda bulunmak için lütfen bir "Pull Request" oluşturun. Her türlü görüs ve geliştirme önerisi memnuniyetle karşılanır.
+Katkıda bulunmak için lütfen bir "Pull Request" oluşturun. 
 
 
 
