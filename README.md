@@ -8,7 +8,7 @@ Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, öz
 
 *Hizmet bölgesi analizi*: Çeşitli hizmet bölgelerindeki öğretmen ihtiyaçlarını analiz eder.
 
-*` Grafiksel analizler` &ndash; Branşlar ve bölgeler bazında ihtiyaç ve fazla öğretmen verilerini görsel olarak sunar.
+*` Grafiksel analizler`: Branşlar ve bölgeler bazında ihtiyaç ve fazla öğretmen verilerini görsel olarak sunar.
 
 *`Kurum sayıları analizi`*: Anaokulu, ilkokul, ortaokul ve lise bazında kurum sayılarını sunar.
 
