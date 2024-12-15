@@ -30,7 +30,9 @@ Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, öz
 
 Projeyi çalıştırmak için aşağıdaki paketlerin yüklenmiş olması gerekmektedir:
 
+```bash
 pip install pandas matplotlib gradio openpyxl
+```
 
 ### Kurulum
 
