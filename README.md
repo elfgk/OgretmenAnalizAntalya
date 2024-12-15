@@ -4,11 +4,11 @@ Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, öz
 
 ## Özellikler
 
-*Branş bazlı analiz*: Her branşa göre fazla öğretmen ve ihtiyaç sayılarını hesaplar.
+*`Branş bazlı analiz`*: Her branşa göre fazla öğretmen ve ihtiyaç sayılarını hesaplar.
 
-*Hizmet bölgesi analizi*: Çeşitli hizmet bölgelerindeki öğretmen ihtiyaçlarını analiz eder.
+*`Hizmet bölgesi analizi`*: Çeşitli hizmet bölgelerindeki öğretmen ihtiyaçlarını analiz eder.
 
-*` Grafiksel analizler`: Branşlar ve bölgeler bazında ihtiyaç ve fazla öğretmen verilerini görsel olarak sunar.
+*`Grafiksel analizler`*: Branşlar ve bölgeler bazında ihtiyaç ve fazla öğretmen verilerini görsel olarak sunar.
 
 *`Kurum sayıları analizi`*: Anaokulu, ilkokul, ortaokul ve lise bazında kurum sayılarını sunar.
 
@@ -64,22 +64,20 @@ Komut satırında verilen URL'yi tarayıcınızda açarak arayüze erişin.
 ## Kullanım
 
 Ana Fonksiyonlar
-
-*Hizmet Bölgesi Bazlı Eksik Öğretmen Analizi*:
-
 ##
+*`Hizmet Bölgesi Bazlı Eksik Öğretmen Analizi`*:
 
 Seçilen branşa göre hizmet bölgelerinde öğretmen ihtiyaçlarını listeler ve bir grafik oluşturur.
 
-*Üretli Öğretmen Sayısı Analizi*:
+*`Üretli Öğretmen Sayısı Analizi`*:
 
 Seçilen branş için toplam ihtiyaç, fazla sayısı ve üretli ihtiyacı gösterir.
 
-*Eğitim Seviyelerine Göre Kurum Analizi*:
+*`Eğitim Seviyelerine Göre Kurum Analizi`*:
 
 Anaokulu, ilkokul, ortaokul ve lise bazında kurum sayılarını bir pasta grafiği üzerinde sunar.
 
-*Hizmet Puanı Analizi*:
+*`Hizmet Puanı Analizi`*:
 
 Hizmet puanlarına göre en yüksek puana sahip öğretmeni ve sıralamalarını gösterir.
 
