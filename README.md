@@ -63,7 +63,7 @@ Komut satırında verilen URL'yi tarayıcınızda açarak arayüze erişin.
 
 ## Kullanım
 
-Ana Fonksiyonlar
+
 
 *`Hizmet Bölgesi Bazlı Eksik Öğretmen Analizi`*:
 
