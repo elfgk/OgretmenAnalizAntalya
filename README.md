@@ -1,6 +1,6 @@
 # Öğretmen Analiz Uygulaması
 
-Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, özellikle Antalya ilindeki öğretmen dengesizliklerini anlamaya yardımcı olmak ücin geliştirilmiştir. Proje, çeşitli hizmet bölgeleri ve branşlar üzerinden analiz yaparak ihtiyaç duyulan öğretmenlerin belirlenmesine yardımcı olur.
+Bu proje, öğretmen ihtiyaçlarını ve norm fazlası durumu analiz ederek, özellikle Antalya ilindeki öğretmen dengesizliklerini anlamaya yardımcı olmak ücin geliştirilmiştir. Proje, çeşitli hizmet bölgeleri ve branşlar üzerinden analiz yaparak ihtiyaç duyulan öğretmenlerin belirlenmesine yardımcı olur. --> https://huggingface.co/spaces/elfgk/Ogretmen_Analiz
 
 ## Özellikler
 
